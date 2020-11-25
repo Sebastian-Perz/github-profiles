@@ -45,11 +45,6 @@ input:focus {
   box-shadow: 0 5px 10px rgba(154, 160, 185, 0.8);
   max-width: 800px;
 }
-.img-container {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
 
 .avatar {
   width: 150px;
